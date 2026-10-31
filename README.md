@@ -87,13 +87,15 @@ A selection of the applications and utilities presented in my [portfolio](https:
 
 ## 📈 GitHub Activity
 
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=IkonicDev13&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=155EEF&icon_color=155EEF" height="170" alt="Shameer Akram GitHub Statistics" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IkonicDev13&layout=compact&hide_border=true&theme=transparent&title_color=155EEF" height="170" alt="Shameer Akram Most Used Languages" />
+<img src="https://streak-stats.demolab.com/?user=IkonicDev13&theme=tokyonight&hide_border=true" width="495" alt="Shameer Akram GitHub Streak Stats" />
 
 </div>
+
 
 
 ## 📬 Let's Connect
