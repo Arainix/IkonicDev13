@@ -84,14 +84,17 @@ A selection of the applications and utilities presented in my [portfolio](https:
 
 ## 📈 GitHub Activity
 
+
+## 📈 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IkonicDev13&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=155EEF&icon_color=155EEF" height="165" alt="Shameer Akram's GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkonicDev13&layout=compact&hide_border=true&theme=transparent&title_color=155EEF" height="165" alt="Most-used languages across public GitHub repositories" />
+<img src="https://github-stats-extended.vercel.app/api?username=IkonicDev13&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=155EEF&icon_color=155EEF" height="170" alt="Shameer Akram GitHub Statistics" />
 
-<sub>These cards are generated from public repository data by a third-party service; they are not a complete measure of development work.</sub>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IkonicDev13&layout=compact&hide_border=true&theme=transparent&title_color=155EEF" height="170" alt="Shameer Akram Most Used Languages" />
 
 </div>
+
 
 ## 📬 Let's Connect
 
