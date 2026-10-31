@@ -1,49 +1,106 @@
-<!-- GitHub profile README | github.com/IkonicDev13/IkonicDev13 -->
-<div align="center">
-  <img src="./assets/github-header.png" width="100%" alt="Shameer Akram — Software Developer, Laravel, Web Applications and APIs" />  <p><strong>Building reliable web applications that solve real business problems.</strong></p>
-  <p>From well-structured backends to polished interfaces, I focus on software that is useful, maintainable, and easy to work with.</p>  <a href="https://shameerakram.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shameer-akram-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-101B34?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/IkonicDev13?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/View_my_code-101B34?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>About me
-I'm Shameer Akram, a software developer based in Pakistan, with a focus on PHP, Laravel, web applications, and backend development. I like turning complicated workflows into straightforward tools people can rely on.
-- What I build: business-management platforms, dashboards, web applications, and API integrations.
-- How I work: clear requirements, thoughtful database design, readable code, and dependable delivery.
-- What I care about: practical user experiences, maintainable architecture, performance, and continuous improvement.
-What I work with
-<div align="left">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</div>Selected work
-These projects are featured on my personal portfolio. Some repositories may not be publicly available.
-Project	What it does	Explore
-School Management System	A management platform built to organize day-to-day school operations and administrative workflows.	GitHub repository
-Multi-Tenant POS System	A point-of-sale concept focused on serving separate businesses through a shared platform.	Portfolio
-Multi-Tenant Restaurant Management	A restaurant operations concept designed around individual tenant workspaces.	Portfolio
-Unit Converter Website	A straightforward web utility for converting between common measurement units.	GitHub repository
 
+<!-- GitHub profile README for github.com/IkonicDev13 -->
 
-<details>
-<summary><strong>More of my work</strong></summary>
-<br />- Modern Portfolio — my personal portfolio website.
-- Cricket Website — a cricket information website project.
-- More repositories — experiments, utilities, and ongoing work.
-</details>How I approach a project
-01 · Understand the problem and the people using the software
-02 · Design the data and application structure before implementation
-03 · Build the API, business logic, and interface with maintainability in mind
-04 · Refine through testing, feedback, and iterative improvement
 <div align="center">
-  <h3>Have a project in mind?</h3>
-  <p>I'm interested in meaningful software work, collaboration, and opportunities to build useful products.</p>
-  <p><a href="https://shameerakram.dev/"><strong>Visit my portfolio</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/shameer-akram-dev/"><strong>Connect on LinkedIn</strong></a> &nbsp;·&nbsp; <a href="https://github.com/IkonicDev13"><strong>Follow on GitHub</strong></a></p>
-  <sub>Shameer Akram · Software Developer · Pakistan</sub>
+
+# Hi 👋, I'm Shameer Akram
+
+### Software Developer · Laravel · PHP · MySQL
+
+I build practical web applications that simplify business workflows — from reliable backends and well-structured databases to interfaces people enjoy using.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shameerakram.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shameer-akram-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkonicDev13)
+
+<sub>Based in Gujrat, Pakistan · Interested in thoughtful software and useful products</sub>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 **I'm a Software Developer** with a focus on **PHP, Laravel, MySQL, and modern web development**.
+- 🏗️ **I build business-focused software:** management systems, dashboards, point-of-sale workflows, and multi-tenant applications.
+- 🔌 **Backend interests:** application architecture, database design, REST APIs, integrations, and maintainable business logic.
+- 🎨 **Frontend priorities:** responsive interfaces, straightforward navigation, and a consistent user experience.
+- 🎓 **Education:** Computer Science background, alongside practical development experience.
+- 🌍 **Location:** Gujrat, Punjab, Pakistan.
+- 🤝 **Collaboration:** Interested in useful web products, Laravel projects, and problem-solving with other developers.
+
+## ⚙️ How I Work
+
+```text
+01  UNDERSTAND   →  Clarify the business problem, users, and requirements.
+02  DESIGN       →  Plan the database, application structure, and workflows.
+03  BUILD        →  Implement backend logic, APIs, and usable interfaces.
+04  VERIFY       →  Test real scenarios, fix issues, and refine the result.
+05  IMPROVE      →  Keep the code readable, maintainable, and extendable.
+```
+
+I prefer software that does its job well over software that only looks impressive in a demo.
+
+## 🚀 Featured Projects
+
+A selection of the applications and utilities presented in my [portfolio](https://shameerakram.dev/).
+
+| Project | What it does | Area |
+| :--- | :--- | :--- |
+| **[School Management System](https://github.com/IkonicDev13/School-Management-System)** | Brings school administration and day-to-day management workflows into a structured web application. | Management system · Laravel |
+| **Multi-Tenant POS System** | Supports point-of-sale operations for multiple businesses while organizing their sales-related workflows. | POS · Multi-tenancy |
+| **Multi-Tenant Restaurant Management** | Organizes restaurant operations within a tenant-based management platform. | Restaurant software · Business workflows |
+| **[Unit Converter Website](https://github.com/IkonicDev13/Unit-Convertor)** | Makes everyday measurement conversions simple through an accessible web interface. | Web utility · Frontend |
+| **[Modern Portfolio](https://github.com/IkonicDev13/Modern-Portfolio)** | My personal website for presenting my experience, services, projects, and contact information. | Personal branding · Web development |
+
+> Some business applications are showcased on my portfolio rather than in public GitHub repositories. Project names are linked only when a relevant repository is available.
+
+## 🧰 Tech Stack
+
+**Backend & Databases**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-155EEF?style=flat-square)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IkonicDev13&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=155EEF&icon_color=155EEF" height="165" alt="Shameer Akram's GitHub activity statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkonicDev13&layout=compact&hide_border=true&theme=transparent&title_color=155EEF" height="165" alt="Most-used languages across public GitHub repositories" />
+
+<sub>These cards are generated from public repository data by a third-party service; they are not a complete measure of development work.</sub>
+
+</div>
+
+## 📬 Let's Connect
+
+I enjoy working on systems that make daily operations easier, especially applications built around real business needs.
+
+**[Personal Website](https://shameerakram.dev/)** · **[LinkedIn](https://www.linkedin.com/in/shameer-akram-dev/)** · **[GitHub](https://github.com/IkonicDev13)**
+
+---
+
+<div align="center">
+  <sub>Shameer Akram · Software Developer · Gujrat, Pakistan</sub>
 </div>
